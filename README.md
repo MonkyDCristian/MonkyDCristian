@@ -1,7 +1,7 @@
 ### Hello there,  I'm Cris 👋😁
 
-Currently, I am finishing my degree in Computer Engineering, specializing in robotics, at the Catholic University of Chile (but I consider myself a ✨robotics engineer✨).
-During the last years I have been developing my skills around the world of robotics, usually developing for artificial vision, control, AI, simulation and electronics. Taking on challenging projects is kind of my lifestyle. I am very grateful to the people with whom I have worked, who have allowed me to grow within the professional area. Apart from that, I am always looking forward to learning new cool things 🔥.
+Currently, I am finishing my degree in Computer Engineering, specializing in robotics at the Catholic University of Chile (but I consider myself a ✨robotics engineer✨).
+During the last years, I have been developing my skills around the world of robotics usually developing for artificial vision, control, AI, simulation and electronics. Taking on challenging projects is kind of my lifestyle. I am very grateful to the people with whom I have worked, who have allowed me to grow professionally. Besides that, I am always looking forward to learning new cool things 🔥.
 
 <!--
 **MonkyDCristian/MonkyDCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
