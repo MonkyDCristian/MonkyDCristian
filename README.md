@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Maritime RobotX Challenge Competition](https://robotx.org/programs/robotx-challenge-2022/), proud member of the [caleuche team](https://www.instagram.com/caleuche_robotx)🦾
+- 🔭 I’m currently working on [VRX Competition 2023](https://robotx.org/programs/vrx-2023/), proud member of the [Caleuche team](https://www.instagram.com/caleuche_robotx)🦾
 - 🌱 I’m currently learning ROS2, Microros, Webot simulation and more robotics stuff
 - 🤖 I developed an [autonomous palletizing industrial simulator](https://github.com/MonkyDCristian/SEMA_Sim) with Gazebo and Moveit for an internship that I did with an IA research team at the Universidad de los Andes, Colombia 🇨🇴
 - 💬 Ask me about robotic simulation and computer vision
