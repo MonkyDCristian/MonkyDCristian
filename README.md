@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### How to find me 👀
 
 [![email](https://img.shields.io/badge/email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.nova@uc.cl)
-[![linkedin](https://img.shields.io/badge/visit%20my%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cristian-nova-33b53723a)
+[![linkedin](https://img.shields.io/badge/visit%20my%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-nova-33b53723a)
 [![instagram](https://img.shields.io/badge/Follow%20my%20instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristiannovasantoya/)
 
 ### Github Stats 📈
